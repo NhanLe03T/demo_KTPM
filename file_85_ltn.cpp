@@ -4,6 +4,6 @@
 
 int main() {
 	std::cout << "Hello World!";
-	std::cout << "Cho nay se bi thay doi";
+	std::cout << "Day la nhung thay doi den tu nhanh Main";
 	return 0;
 }
